@@ -1,5 +1,6 @@
 backend:
-  name: test-repo
+  name: github
+  repo: jtg2078/test-gatsby-blog-1
 
 media_folder: static/assets
 public_folder: assets
